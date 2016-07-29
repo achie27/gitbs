@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
 int main(){
-	cout<<"the experimental branch v2 mate";
+	cout<<"i\'m just getting started";
 	return 0;
 }
